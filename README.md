@@ -1,1 +1,1 @@
-# Bible-Testament-Extractor
+# Religious Verse Extractor
